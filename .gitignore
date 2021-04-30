@@ -11,7 +11,7 @@
 /build
 /captures
 multipicker/key-file.gpg
-gradle.properties
+#gradle.properties
 app/fabric.properties
 /extras/secret.properties
 /extras/release.keystore
