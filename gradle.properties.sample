@@ -7,3 +7,8 @@ scmUrl=repo_url
 signing.keyId=gpg_key_id
 signing.password=gpg_password
 signing.secretKeyRingFile=key-file.gpg.sample
+
+
+
+android.useAndroidX=true
+android.enableJetifier=true
